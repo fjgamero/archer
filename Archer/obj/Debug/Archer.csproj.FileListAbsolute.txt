@@ -1,0 +1,14 @@
+C:\Users\fjgamero\source\repos\Archer\Archer\bin\Debug\Archer.exe.config
+C:\Users\fjgamero\source\repos\Archer\Archer\bin\Debug\Archer.exe
+C:\Users\fjgamero\source\repos\Archer\Archer\bin\Debug\Archer.pdb
+C:\Users\fjgamero\source\repos\Archer\Archer\obj\Debug\Archer.csprojResolveAssemblyReference.cache
+C:\Users\fjgamero\source\repos\Archer\Archer\obj\Debug\Archer.Form1.resources
+C:\Users\fjgamero\source\repos\Archer\Archer\obj\Debug\Archer.Properties.Resources.resources
+C:\Users\fjgamero\source\repos\Archer\Archer\obj\Debug\Archer.csproj.GenerateResource.Cache
+C:\Users\fjgamero\source\repos\Archer\Archer\obj\Debug\Archer.csproj.CoreCompileInputs.cache
+C:\Users\fjgamero\source\repos\Archer\Archer\obj\Debug\Archer.exe
+C:\Users\fjgamero\source\repos\Archer\Archer\obj\Debug\Archer.pdb
+C:\Users\fjgamero\source\repos\Archer\Archer\bin\Debug\Archer.exe.manifest
+C:\Users\fjgamero\source\repos\Archer\Archer\bin\Debug\Archer.application
+C:\Users\fjgamero\source\repos\Archer\Archer\obj\Debug\Archer.exe.manifest
+C:\Users\fjgamero\source\repos\Archer\Archer\obj\Debug\Archer.application
